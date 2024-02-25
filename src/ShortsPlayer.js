@@ -74,7 +74,7 @@ const ShortsPlayer = () => {
                   muted
                 />
               </div>
-              <div className=" md:relative absolute md:w-20 px-2">
+              <div className=" md:relative absolute md:w-20 pt-[20%] lg:pt-0 px-2">
                 <div className="flex flex-col text-white text-center">
                   <div className="py-2">
                     <button className="p-2 bg-gray-500 rounded-full">
